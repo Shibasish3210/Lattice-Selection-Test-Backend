@@ -20,6 +20,7 @@ connectToMongoDB(URI); //connecting to MongoDB
 
 app.use(registrationRoute);//route for registration
 app.use(readDetailsRoute);//route for reading details
+
 app.use(errorLogger);
 app.use(errorHandler);
 

@@ -1,0 +1,64 @@
+{
+    "statusCode": 200,
+    "message": "All Hospital details retrived successfully",
+    "data": [
+        {
+            "_id": "65ae8b5bd4161f2ad9a62800",
+            "HospitalName": "Apollo Hospitals",
+            "TotalPsychiatristCount": 5,
+            "TotalPatientsCount": 10,
+            "PsychiatristDetails": [
+                "65ae8e55d4161f2ad9a6280d",
+                "65ae8ea5d4161f2ad9a62811",
+                "65ae8eb2d4161f2ad9a62815",
+                "65ae8ec0d4161f2ad9a62819",
+                "65ae8eced4161f2ad9a6281d"
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "65ae8b6ad4161f2ad9a62803",
+            "HospitalName": "Jawaharlal Nehru Medical College and Hospital",
+            "TotalPsychiatristCount": 5,
+            "TotalPatientsCount": 9,
+            "PsychiatristDetails": [
+                "65ae8effd4161f2ad9a62821",
+                "65ae8f31d4161f2ad9a62825",
+                "65ae8f3dd4161f2ad9a62829",
+                "65ae8f4cd4161f2ad9a6282d",
+                "65ae8f5ad4161f2ad9a62831"
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "65ae8b84d4161f2ad9a62806",
+            "HospitalName": "Indira Gandhi Institute of Medical Sciences (IGIMS)",
+            "TotalPsychiatristCount": 5,
+            "TotalPatientsCount": 10,
+            "PsychiatristDetails": [
+                "65ae8faad4161f2ad9a62835",
+                "65ae8fbfd4161f2ad9a62839",
+                "65ae8fd4d4161f2ad9a6283d",
+                "65ae8fe1d4161f2ad9a62841",
+                "65ae8fefd4161f2ad9a62845"
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "65ae8b94d4161f2ad9a62809",
+            "HospitalName": "AIIMS - All India Institute Of Medical Science",
+            "TotalPsychiatristCount": 6,
+            "TotalPatientsCount": 10,
+            "PsychiatristDetails": [
+                "65ae903dd4161f2ad9a62849",
+                "65ae9049d4161f2ad9a6284d",
+                "65ae9054d4161f2ad9a62851",
+                "65ae905ed4161f2ad9a62855",
+                "65ae906ad4161f2ad9a62859",
+                "65aeab11d7195c06eacd5778"
+            ],
+            "__v": 0
+        }
+    ],
+    "success": true
+}

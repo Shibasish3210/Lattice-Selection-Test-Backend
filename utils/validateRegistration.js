@@ -1,7 +1,7 @@
 import validator from "validator";
 import ApiError from "./ApiError.js"
 
-const passwordRegex = /^(?=.*?[A-Z])(?=(.*[a-z]){1,})(?=(.*[\d]){1,})(?!.*\s).{7,15}$/;
+const passwordRegex = /^(?=.*?[A-Z])(?=(.*[a-z]){1,})(?=(.*[\d]){1,})(?!.*\s).{8,15}$/;
 
 const validatePatientRegistration = ({ Name, Address, Email, PhoneNumber, Password, DoctorId })=>{
     return new Promise((resolve, reject)=>{

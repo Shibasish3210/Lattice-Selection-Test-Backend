@@ -1,0 +1,234 @@
+{
+    "statusCode": 200,
+    "message": "All Doctor details retrived successfully",
+    "data": [
+        {
+            "_id": "65ae8e55d4161f2ad9a6280d",
+            "Name": "Dr Manish Jain",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae955046f029fe9d94a5eb",
+                "65ae959846f029fe9d94a5f1"
+            ],
+            "HospitalID": "65ae8b5bd4161f2ad9a62800",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8ea5d4161f2ad9a62811",
+            "Name": "Dr Vishal Chhabra",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae966e46f029fe9d94a5f7",
+                "65ae96a646f029fe9d94a5fd"
+            ],
+            "HospitalID": "65ae8b5bd4161f2ad9a62800",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8eb2d4161f2ad9a62815",
+            "Name": "Dr Vasantha Jayaraman",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae970c46f029fe9d94a603",
+                "65ae973f46f029fe9d94a609"
+            ],
+            "HospitalID": "65ae8b5bd4161f2ad9a62800",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8ec0d4161f2ad9a62819",
+            "Name": "Dr Mrinmay Kumar Das",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae97c115c2d70326560c80",
+                "65ae97f515c2d70326560c86"
+            ],
+            "HospitalID": "65ae8b5bd4161f2ad9a62800",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8eced4161f2ad9a6281d",
+            "Name": "Dr Vipul Rastogi",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae985f15c2d70326560c8c",
+                "65ae989615c2d70326560c92"
+            ],
+            "HospitalID": "65ae8b5bd4161f2ad9a62800",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8effd4161f2ad9a62821",
+            "Name": "Dr Murali Raj",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae98ec15c2d70326560c98",
+                "65ae992315c2d70326560c9e"
+            ],
+            "HospitalID": "65ae8b6ad4161f2ad9a62803",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8f31d4161f2ad9a62825",
+            "Name": "Dr Gorav Gupta",
+            "PatientCount": 1,
+            "Patients": [
+                "65ae998f15c2d70326560ca4"
+            ],
+            "HospitalID": "65ae8b6ad4161f2ad9a62803",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8f3dd4161f2ad9a62829",
+            "Name": "Dr Samir Parikh",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae9a2215c2d70326560caa",
+                "65ae9a5b15c2d70326560cb0"
+            ],
+            "HospitalID": "65ae8b6ad4161f2ad9a62803",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8f4cd4161f2ad9a6282d",
+            "Name": "Dr Sameer Malhotra",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae9aad15c2d70326560cb6",
+                "65ae9adc15c2d70326560cbc"
+            ],
+            "HospitalID": "65ae8b6ad4161f2ad9a62803",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8f5ad4161f2ad9a62831",
+            "Name": "Dr Ajit Dandekar",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae9b3415c2d70326560cc2",
+                "65ae9b8115c2d70326560cc8"
+            ],
+            "HospitalID": "65ae8b6ad4161f2ad9a62803",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8faad4161f2ad9a62835",
+            "Name": "Dr Anirban Dutt",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae9bd215c2d70326560cce",
+                "65ae9c0315c2d70326560cd4"
+            ],
+            "HospitalID": "65ae8b84d4161f2ad9a62806",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8fbfd4161f2ad9a62839",
+            "Name": "Dr Angshuman Das",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae9c7615c2d70326560cda",
+                "65ae9ca415c2d70326560ce0"
+            ],
+            "HospitalID": "65ae8b84d4161f2ad9a62806",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8fd4d4161f2ad9a6283d",
+            "Name": "Dr Anant Agarwal",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae9d6d15c2d70326560ce6",
+                "65ae9e7515c2d70326560cec"
+            ],
+            "HospitalID": "65ae8b84d4161f2ad9a62806",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8fe1d4161f2ad9a62841",
+            "Name": "Dr Achal Bhagat",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae9ede15c2d70326560cf2",
+                "65ae9f2015c2d70326560cf8"
+            ],
+            "HospitalID": "65ae8b84d4161f2ad9a62806",
+            "__v": 0
+        },
+        {
+            "_id": "65ae8fefd4161f2ad9a62845",
+            "Name": "Dr Aarthi radhika Inuganti",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae9f8a15c2d70326560cfe",
+                "65ae9fb815c2d70326560d04"
+            ],
+            "HospitalID": "65ae8b84d4161f2ad9a62806",
+            "__v": 0
+        },
+        {
+            "_id": "65ae903dd4161f2ad9a62849",
+            "Name": "Dr Bharathi Visveswaran",
+            "PatientCount": 2,
+            "Patients": [
+                "65aea03e15c2d70326560d0a",
+                "65aea06b15c2d70326560d10"
+            ],
+            "HospitalID": "65ae8b94d4161f2ad9a62809",
+            "__v": 0
+        },
+        {
+            "_id": "65ae9049d4161f2ad9a6284d",
+            "Name": "Dr Ashutosh Singh",
+            "PatientCount": 2,
+            "Patients": [
+                "65aea0be15c2d70326560d16",
+                "65aea0f315c2d70326560d1c"
+            ],
+            "HospitalID": "65ae8b94d4161f2ad9a62809",
+            "__v": 0
+        },
+        {
+            "_id": "65ae9054d4161f2ad9a62851",
+            "Name": "Dr Ashok K Alimchandani",
+            "PatientCount": 2,
+            "Patients": [
+                "65aea14815c2d70326560d22",
+                "65aea17915c2d70326560d28"
+            ],
+            "HospitalID": "65ae8b94d4161f2ad9a62809",
+            "__v": 0
+        },
+        {
+            "_id": "65ae905ed4161f2ad9a62855",
+            "Name": "Dr Arti Behl",
+            "PatientCount": 2,
+            "Patients": [
+                "65aea1c415c2d70326560d2e",
+                "65aea20015c2d70326560d35"
+            ],
+            "HospitalID": "65ae8b94d4161f2ad9a62809",
+            "__v": 0
+        },
+        {
+            "_id": "65ae906ad4161f2ad9a62859",
+            "Name": "Dr Arindam Mondal",
+            "PatientCount": 2,
+            "Patients": [
+                "65ae92f146f029fe9d94a5de",
+                "65ae936f46f029fe9d94a5e4"
+            ],
+            "HospitalID": "65ae8b94d4161f2ad9a62809",
+            "__v": 0
+        },
+        {
+            "_id": "65aeab11d7195c06eacd5778",
+            "Name": "Michel Angelo",
+            "PatientCount": 0,
+            "Patients": [],
+            "HospitalID": "65ae8b94d4161f2ad9a62809",
+            "__v": 0
+        }
+    ],
+    "success": true
+}
