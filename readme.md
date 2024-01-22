@@ -1,5 +1,3 @@
-# Project Name
-
 ## Psychiatry Platform
 
 ### Overview
