@@ -132,7 +132,7 @@ This project aims to provide a comprehensive platform for psychiatrists to manag
 
 ### Conclusion
 
-This platform provides a seamless experience for psychiatrists to manage their patients and hospitals efficiently. The combination of Express.js, Node.js, MongoDB, Multer, and Cloudinary ensures a robust and scalable solution. Feel free to explore the API endpoints and integrate this platform into your healthcare system. The endpoint for patient registration and retrieving particular hospital data is ready with edge cases but the rest of the endpoints need right data which can be updated later. [Click here] [https://github.com/Shibasish3210/Lattice-Selection-Test-Backend/blob/master/Lattice%20Selection%20Test%20Collection.postman_collection.json] to get the postman collection for efficient usage and parameters.For any inquiries or issues, please contact [Shibasish Mondal] at [shibasish3210@gmail.com].
+This platform provides a seamless experience for psychiatrists to manage their patients and hospitals efficiently. The combination of Express.js, Node.js, MongoDB, Multer, and Cloudinary ensures a robust and scalable solution. Feel free to explore the API endpoints and integrate this platform into your healthcare system. The endpoint for patient registration and retrieving particular hospital data is ready with edge cases but the rest of the endpoints need right data which can be updated later. [Click here](https://github.com/Shibasish3210/Lattice-Selection-Test-Backend/blob/master/Lattice%20Selection%20Test%20Collection.postman_collection.json) to get the postman collection for efficient usage and parameters.For any inquiries or issues, please contact [Shibasish Mondal](shibasish3210@gmail.com) .
 
 ---
 
