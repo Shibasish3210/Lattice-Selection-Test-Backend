@@ -82,11 +82,11 @@ This project aims to provide a comprehensive platform for psychiatrists to manag
     https://lattice-selection-backend.onrender.com/register-patient
 ```
 **N.B. :** This endpoint is a **POST** request and needs following details of the patient:
-    ***Name*** 
-    ***Address*** (not less than 10 characters)
-    ***Email*** (valid)
-    ***PhoneNumber*** (optional)
-    ***Password*** (one uppercase & lowercase letter along with a digit between 8-15characters)
+    ***Name***, 
+    ***Address*** (not less than 10 characters), 
+    ***Email*** (valid), 
+    ***PhoneNumber*** (optional), 
+    ***Password*** (one uppercase & lowercase letter along with a digit between 8-15characters), 
     ***DoctorId*** (valid doctor id under whom the patient is registering)
 
 
@@ -96,7 +96,7 @@ This project aims to provide a comprehensive platform for psychiatrists to manag
     https://lattice-selection-backend.onrender.com/register-doctor
 ```
 **N.B. :** This endpoint is a **POST** request and needs following details:
-    ***doctor_name***
+    ***doctor_name***,
     ***hospital_id***
 
 #### Register a Hospital
@@ -132,7 +132,7 @@ This project aims to provide a comprehensive platform for psychiatrists to manag
 
 ### Conclusion
 
-This platform provides a seamless experience for psychiatrists to manage their patients and hospitals efficiently. The combination of Express.js, Node.js, MongoDB, Multer, and Cloudinary ensures a robust and scalable solution. Feel free to explore the API endpoints and integrate this platform into your healthcare system. The endpoint for patient registration and retrieving particular hospital data is ready with edge cases but the rest of the endpoints need right data which can be updated later. I'll be attaching a postman collection for efficient usage and parameters.For any inquiries or issues, please contact [Shibasish Mondal] at [shibasish3210@gmail.com].
+This platform provides a seamless experience for psychiatrists to manage their patients and hospitals efficiently. The combination of Express.js, Node.js, MongoDB, Multer, and Cloudinary ensures a robust and scalable solution. Feel free to explore the API endpoints and integrate this platform into your healthcare system. The endpoint for patient registration and retrieving particular hospital data is ready with edge cases but the rest of the endpoints need right data which can be updated later. [Click here] [https://github.com/Shibasish3210/Lattice-Selection-Test-Backend/blob/master/Lattice%20Selection%20Test%20Collection.postman_collection.json] to get the postman collection for efficient usage and parameters.For any inquiries or issues, please contact [Shibasish Mondal] at [shibasish3210@gmail.com].
 
 ---
 
