@@ -23,7 +23,9 @@ app.use(readDetailsRoute);//route for reading details
 app.use(errorLogger);
 app.use(errorHandler);
 
-
+app.get('/', (req,res)=>{
+    res.status(200).send('<h1>Hello , welcome to lattice selection test backend</h1>');
+})
 //server listening on the given PORT 
 app.listen(PORT,()=>{
     console.log(`Server is up and running on http://localhost:${PORT}`);
